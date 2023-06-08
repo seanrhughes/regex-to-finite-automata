@@ -155,7 +155,8 @@ Inputting the regex `((a|b|(a(a|b)*))?)+` generates:<br>
 Regular Expressions are used extensively in text manipulation. Their implementation at their core is mostly finite state machines, 
 or in some specialized cases, recursive backtracking. These regular expressions have underlying finite state machines, regardless if 
 they are seen by the user or not. Practical use cases often times generate very large finite state machines, so displaying them is 
-not always very beneficial, but it is interesting at the very least to see their output.
+not always very beneficial, but it is interesting at the very least to see their output. The files displaying these finite state machines are somewhat large (around 50-100 MB), so they can't easily be stored on GitHub. To view them, please download or preview 
+them with the Google Drive links attached. You may need to zoom in to see the image at full detail.
 
 ### Matching Phone Numbers
 The regex <br>
@@ -167,7 +168,7 @@ The regex <br>
 will match a phone number, consisting of three digits, followed by a `-`, followed by three more digits, followed by another `-`, and 
 finally four more digits.<br>
 
-The `DFA` it generates is rather large, so please find it in the repository under `phoneNumberDFA.png`
+Output stored in [Google Drive](https://drive.google.com/file/d/1Zf-4NEW-rUHa6k8a-OsmFudIL5TJC4X8/view?usp=share_link)
 
 ### Matching Email Addresses
 The regex <br>
@@ -179,7 +180,7 @@ will match any email address, consisting of a username of one or more alphanumer
 `@` symbol, followed by a domain name of one or more alphanumeric characters, followed by the `.` symbol, 
 followed by a top-level domain of one or more alphanumeric characters.
 
-The `DFA` it generates is rather large, so please find it in the repository under `emailDFA.png`
+Output stored in [Google Drive](https://drive.google.com/file/d/1hpti7SxqmwGjUTyCAfR4yb1e94rjQ4FU/view?usp=share_link)
 
 ### Matching URLs
 The regex <br>
@@ -188,6 +189,6 @@ The regex <br>
 
 matches a simple URL. It matches an optional scheme (`https://` or `http://`), followed by `www.`, followed by a domain of one or more alphanumeric characters, followed by a `.` followed by a top-level domain of one or more alphanumeric characters. It is then followed by an optional file path, which consists of a `/` followed by one or more alphanumeric characters, any number of times.
 
-The `DFA` it generates is rather large, so please find it in the repository under `urlDFA.png`
+Output stored in [Google Drive](https://drive.google.com/file/d/1-zZvXlCEeqrsvGtbn1dHwFt0wGIAAaVW/view?usp=share_link)
 
 
