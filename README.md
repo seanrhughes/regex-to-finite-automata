@@ -8,8 +8,8 @@
 - [Grammar](https://github.com/seanrosshughes/regex-to-finite-automata#grammar)<br>
 
 [Regex to NFA](https://github.com/seanrosshughes/regex-to-finite-automata#regex-to-nfa)<br>
-- [Examples](https://github.com/seanrosshughes/regex-to-finite-automata#examples)<br>
 - [NFA / DFA Type](https://github.com/seanrosshughes/regex-to-finite-automata#nfa--dfa-type)
+- [Examples](https://github.com/seanrosshughes/regex-to-finite-automata#examples)<br>
 
 [NFA to DFA](https://github.com/seanrosshughes/regex-to-finite-automata#nfa-to-dfa)<br>
 - [Examples](https://github.com/seanrosshughes/regex-to-finite-automata#examples-1)<br>
@@ -155,7 +155,7 @@ Inputting the regex `((a|b|(a(a|b)*))?)+` generates:<br>
 Regular Expressions are used extensively in text manipulation. Their implementation at their core is mostly finite state machines, 
 or in some specialized cases, recursive backtracking. These regular expressions have underlying finite state machines, regardless if 
 they are seen by the user or not. Practical use cases often times generate very large finite state machines, so displaying them is 
-not always very beneficial, but it is interesting at the very least to see the output.
+not always very beneficial, but it is interesting at the very least to see their output.
 
 ### Matching Phone Numbers
 The regex <br>
