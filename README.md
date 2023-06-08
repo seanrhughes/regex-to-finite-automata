@@ -1,23 +1,23 @@
 # Regex to Finite Automata
 
 ## Table of Contents
-[Overview](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#overview)<br>
+[Overview](https://github.com/seanrosshughes/regex-to-finite-automata#overview)<br>
 
-[String to Regex](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#string-to-regex)<br>
-- [Tokens](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#tokens)<br>
-- [Grammar](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#grammar)<br>
+[String to Regex](https://github.com/seanrosshughes/regex-to-finite-automata#string-to-regex)<br>
+- [Tokens](https://github.com/seanrosshughes/regex-to-finite-automata#tokens)<br>
+- [Grammar](https://github.com/seanrosshughes/regex-to-finite-automata#grammar)<br>
 
-[Regex to NFA](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#regex-to-nfa)<br>
-- [Examples](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#examples)<br>
-- [NFA / DFA Type](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#nfa--dfa-type)
+[Regex to NFA](https://github.com/seanrosshughes/regex-to-finite-automata#regex-to-nfa)<br>
+- [Examples](https://github.com/seanrosshughes/regex-to-finite-automata#examples)<br>
+- [NFA / DFA Type](https://github.com/seanrosshughes/regex-to-finite-automata#nfa--dfa-type)
 
-[NFA to DFA](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#nfa-to-dfa)<br>
-- [Examples](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#examples-1)<br>
+[NFA to DFA](https://github.com/seanrosshughes/regex-to-finite-automata#nfa-to-dfa)<br>
+- [Examples](https://github.com/seanrosshughes/regex-to-finite-automata#examples-1)<br>
 
-[Practical Examples](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#practical-examples)
-- [Matching Phone Numbers](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#matching-phone-numbers)
-- [Matching Email Addresses](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#matching-email-addresses)
-- [Matching URLs](https://github.com/seanrosshughes/regex-to-finite-automata/edit/main/README.md#matching-urls)
+[Practical Examples](https://github.com/seanrosshughes/regex-to-finite-automata#practical-examples)
+- [Matching Phone Numbers](https://github.com/seanrosshughes/regex-to-finite-automata#matching-phone-numbers)
+- [Matching Email Addresses](https://github.com/seanrosshughes/regex-to-finite-automata#matching-email-addresses)
+- [Matching URLs](https://github.com/seanrosshughes/regex-to-finite-automata#matching-urls)
 
 
 
